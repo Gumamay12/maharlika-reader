@@ -1,6 +1,6 @@
 chapter,panel,script_status,artwork_status,verified_asset_path,notes
-1,1,user_specified,unverified,,Existing strips and drafts require mapping
-1,2,user_specified,unverified,,Existing strips and drafts require mapping
+1,1,user_specified,draft,,Existing opening artwork combines narration with city or title; standalone approval pending
+1,2,user_specified,draft,,Existing city artwork has repeated narration or combined layout; clean standalone approval pending
 1,3,unrecovered,unverified,,Existing strips and drafts require mapping
 1,4,unrecovered,unverified,,Existing strips and drafts require mapping
 1,5,unrecovered,unverified,,Existing strips and drafts require mapping
@@ -48,7 +48,7 @@ chapter,panel,script_status,artwork_status,verified_asset_path,notes
 1,47,unrecovered,unverified,,Existing strips and drafts require mapping
 1,48,unrecovered,unverified,,Existing strips and drafts require mapping
 1,49,unrecovered,unverified,,Existing strips and drafts require mapping
-1,50,recovered_unverified,unverified,,Existing strips and drafts require mapping
+1,50,recovered_unverified,unverified,,Ending recovered from prior conversation; exact original script and artwork mapping pending
 2,1,unrecovered,unverified,,No verified asset mapped
 2,2,unrecovered,unverified,,No verified asset mapped
 2,3,unrecovered,unverified,,No verified asset mapped
